@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "58476898ecd0a3bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5f668f40f78bef9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a4118b55fc5e7de",
+    "type": "split",
+    "children": [
+      {
+        "id": "d285fb932dc3125f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c6824c0599b243b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "03413b18db3146ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3472fb6e0fb7556",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284,
+    "collapsed": true
+  },
+  "right": {
+    "id": "57f4aa1caac77110",
+    "type": "split",
+    "children": [
+      {
+        "id": "b99e42a846d7e43c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "436c925cd9658eb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "340bc1a36111c597",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "5a43dc0c81e89480",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2b444245e4f7023",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5f668f40f78bef9",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "3 - GIÁO DỤC.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "5a1.md",
+    "5a.md",
+    "51.md",
+    "5.md",
+    "1a1.md",
+    "1a1a.md"
+  ]
+}
